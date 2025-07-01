@@ -41,7 +41,8 @@ INTERNET_SPEEDTEST_PYTHON/
 
 ![image](https://github.com/user-attachments/assets/b7d8fbb6-36e4-4c63-bd04-7b98d1667452)
 ![image](https://github.com/user-attachments/assets/4d92b58e-1f17-40bc-abfa-233ef51a4214)
-
+![image](https://github.com/user-attachments/assets/8d700aa8-4adc-4f2e-9fc4-84db5c2e7e98)
+![image](https://github.com/user-attachments/assets/9fa4bff6-d133-46a3-8448-efbf31eda838)
 
 ---
 
