@@ -31,8 +31,8 @@ An internet speed test measures how fast data is transferred between your device
 ```bash
 INTERNET_SPEEDTEST_PYTHON/
 ├── README.md           # Project documentation    
-├── main.py             # Main Python GUI file
-└── image.png           # Logo/Icon for the GUI
+├── image.png           # Logo/Icon for the GUI
+└── main.py             # Main Python GUI file
 ```
 
 ---
@@ -68,11 +68,12 @@ python main.py
 ## 🧪 Example Output
 
 ```bash
-Source IP: 192.168.1.10
-Destination IP: 192.168.1.1
-Protocol: TCP
-Payload: GET / HTTP/1.1...
---------------------------------------------------
+🌐 ISP:              Airtel Broadband  
+📍 Server:         Mumbai, India  
+⬇  Download:  87.52 Mbps  
+⬆  Upload:       43.28 Mbps  
+⚡ Ping:           22.45 ms  
+
 ```
 
 ---
