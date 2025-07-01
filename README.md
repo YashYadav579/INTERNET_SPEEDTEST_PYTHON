@@ -68,11 +68,11 @@ python main.py
 ## 🧪 Example Output
 
 ```bash
-🌐 ISP:              Airtel Broadband  
-📍 Server:         Mumbai, India  
+🌐 ISP:      Airtel Broadband  
+📍 Server:   Mumbai, India  
 ⬇  Download:  87.52 Mbps  
-⬆  Upload:       43.28 Mbps  
-⚡ Ping:           22.45 ms  
+⬆  Upload:    43.28 Mbps  
+⚡ Ping:     22.45 ms  
 
 ```
 
